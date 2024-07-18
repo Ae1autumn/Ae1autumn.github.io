@@ -16,7 +16,7 @@
     "yearColorList":["#3FFF00", "#00FFFF", "#7000FF", "#FF00F0"],
     "i18n":"CN",
     "UTC":8,
-    "themeMode":"fix",
+    "themeMode":"manual",
     "dayTheme":"dark",
     "nightTheme":"dark-blue",
     "urlMode":"pinyin",
