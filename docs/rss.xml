@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ae1autumn</title><link>Ae1autumn.github.io</link><description>欢迎来到我的博客，在这里你可以看到我的日常以及最新的项目进度</description><copyright>Ae1autumn</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/169991880?v=4</url><title>avatar</title><link>Ae1autumn.github.io</link></image><lastBuildDate>Sat, 20 Jul 2024 10:41:23 +0000</lastBuildDate><managingEditor>Ae1autumn</managingEditor><ttl>60</ttl><webMaster>Ae1autumn</webMaster><item><title>资源分享帖</title><link>Ae1autumn.github.io/post/zi-yuan-fen-xiang-tie.html</link><description>这是一个资源分享帖，由'Ae1autumn'支持，如果你有需要的资源可以留言，当然如果你想要贡献资源，也请不要吝啬&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ae1autumn</title><link>Ae1autumn.github.io</link><description>欢迎来到我的博客，在这里你可以看到我的日常以及最新的项目进度</description><copyright>Ae1autumn</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/169991880?v=4</url><title>avatar</title><link>Ae1autumn.github.io</link></image><lastBuildDate>Sat, 20 Jul 2024 10:43:34 +0000</lastBuildDate><managingEditor>Ae1autumn</managingEditor><ttl>60</ttl><webMaster>Ae1autumn</webMaster><item><title>资源分享帖</title><link>Ae1autumn.github.io/post/zi-yuan-fen-xiang-tie.html</link><description>这是一个资源分享帖，由'Ae1autumn'支持，如果你有需要的资源可以留言，当然如果你想要贡献资源，也请不要吝啬&#13;
 &#13;
 &gt; [!IMPORTANT]&#13;
 &gt; 免责声明：&#13;
-本帖下所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请您自负。</description><guid isPermaLink="true">Ae1autumn.github.io/post/zi-yuan-fen-xiang-tie.html</guid><pubDate>Sat, 20 Jul 2024 10:41:02 +0000</pubDate></item><item><title>资源分享</title><link>Ae1autumn.github.io/post/zi-yuan-fen-xiang.html</link><description>这是一个资源分享帖，由'Ae1autumn'支持，如果你有需要的资源可以留言，当然如果你想要贡献资源，也请不要吝啬&#13;
-&#13;
-&gt; [!IMPORTANT]&#13;
-&gt; 免责声明：&#13;
-本帖下所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请您自负。</description><guid isPermaLink="true">Ae1autumn.github.io/post/zi-yuan-fen-xiang.html</guid><pubDate>Sat, 20 Jul 2024 10:28:29 +0000</pubDate></item><item><title>关于</title><link>Ae1autumn.github.io/about.html</link><description># 我是Ae1autumn(末日秋)&#13;
+本帖下所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请您自负。</description><guid isPermaLink="true">Ae1autumn.github.io/post/zi-yuan-fen-xiang-tie.html</guid><pubDate>Sat, 20 Jul 2024 10:41:02 +0000</pubDate></item><item><title>关于</title><link>Ae1autumn.github.io/about.html</link><description># 我是Ae1autumn(末日秋)&#13;
 致力于开发各种免费且(大部分)开源的软件，这是我来到GitHub以及Gitee的初衷，我深知收费以及各种限制的痛，即使不收费，各种限制也足以劝退绝大部分人，剩下的像我这样的人也就寥寥无几，所以我的所有项目一定免费;(大部分)开源，我也从各种开源项目中获得了不小的收获以及成果(但这并不代表我的项目就是套壳)&#13;
 ## 有任何进度都会第一时间在这里发布&#13;
 不管是我的项目，还是资源分享，亦或者是我的日常(这个要慢一点因为平时都是QQ空间)，都可以在这里找到(除非仓库Boog了)&#13;
