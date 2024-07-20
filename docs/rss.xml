@@ -1,2 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ae1autumn</title><link>Ae1autumn.github.io</link><description>欢迎来到我的博客，在这里你可以看到我的日常以及最新的项目进度</description><copyright>Ae1autumn</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/169991880?v=4</url><title>avatar</title><link>Ae1autumn.github.io</link></image><lastBuildDate>Sat, 20 Jul 2024 05:07:32 +0000</lastBuildDate><managingEditor>Ae1autumn</managingEditor><ttl>60</ttl><webMaster>Ae1autumn</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ae1autumn</title><link>Ae1autumn.github.io</link><description>欢迎来到我的博客，在这里你可以看到我的日常以及最新的项目进度</description><copyright>Ae1autumn</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/169991880?v=4</url><title>avatar</title><link>Ae1autumn.github.io</link></image><lastBuildDate>Sat, 20 Jul 2024 09:48:19 +0000</lastBuildDate><managingEditor>Ae1autumn</managingEditor><ttl>60</ttl><webMaster>Ae1autumn</webMaster><item><title>关于</title><link>Ae1autumn.github.io/about.html</link><description># 我是Ae1autumn(末日秋)&#13;
+致力于开发各种免费且(大部分)开源的软件，这是我来到GitHub以及Gitee的初衷，我深知收费以及各种限制的痛，即使不收费，各种限制也足以劝退绝大部分人，剩下的像我这样的人也就寥寥无几，所以我的所有项目一定免费;(大部分)开源，我也从各种开源项目中获得了不小的收获以及成果(但这并不代表我的项目就是套壳)&#13;
+## 有任何进度都会第一时间在这里发布&#13;
+不管是我的项目，还是资源分享，亦或者是我的日常(这个要慢一点因为平时都是QQ空间)，都可以在这里找到(除非仓库Boog了)&#13;
+&#13;
+### 啊...我还是个代码新人&#13;
+由于初来乍到，所以我对于各方面并不是很了解，并且我还只是个学生，学业压力大并且家庭环境极其差(精神上的)所以腾不出多少时间捣鼓(所以项目进度极其缓慢(至少初衷是好的))，但我相信，随着时间的推移，我也一定会进步的！&#13;
+&#13;
+# 资源分享&#13;
+### 独乐乐不如众乐乐&#13;
+关于这个，我的博客有一篇常驻且置顶的资源分享帖，有求资源的可以在那篇帖子留下需要的资源，欢迎各位分享者入驻&#13;
+###### (我这里统一使用123盘，除了蓝盘，其它的都太恶心了，我可花不起这个钱)&#13;
+&#13;
+# 联系方式&#13;
+QQ(如果没有特殊需求请优先邮箱):&#13;
+```json&#13;
+1391108717&#13;
+```&#13;
+&#13;
+邮箱:&#13;
+```json&#13;
+chenjimuyu@163.com&#13;
+```&#13;
+```json&#13;
+qiujishiyu@outlook.com&#13;
+```&#13;
+&#13;
+### 感谢你能看到这里&#13;
+像我这样的人没有疯了死了走上不归路难道还不够吗？&#13;
+# 最好的解释就是&#13;
+### 不要解释&#13;
+##### 过多的解释只会让事情变得越来越糟&#13;
+&#13;
+# -The END-。</description><guid isPermaLink="true">Ae1autumn.github.io/about.html</guid><pubDate>Sat, 20 Jul 2024 07:27:17 +0000</pubDate></item></channel></rss>
